@@ -13,7 +13,7 @@ class Footer extends Component {
         );
       });
     }
-
+      console.log({networks});
     return (
       <footer>
         <div className="container">
