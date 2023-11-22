@@ -4,7 +4,11 @@ body {
     color: #FFF;
 }
 
-.name {
+.nameContainer {
+    display: inline-block;
+}
+
+.nameText {
     color: #FFF;
     font-size: 32px;
     display: inline;
