@@ -1,0 +1,22 @@
+body {
+    background-color: #333745;
+    font-family: JetBrains Mono;
+    color: #FFF;
+}
+
+.name {
+    color: #FFF;
+    font-size: 32px;
+    display: inline;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.codeSymbols {
+    color: #1EFFBC;
+    font-family: JetBrains Mono;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
