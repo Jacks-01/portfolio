@@ -14,7 +14,10 @@
     
 }
 
+
 .aboutParagraph {
+    display: flex;
+    flex-wrap: wrap;
     text-align: left;
     width: 60%;
     margin: auto;
