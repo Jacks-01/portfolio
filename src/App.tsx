@@ -2,6 +2,7 @@ import { FC } from 'react';
 import './App.css';
 import Nav from './Components/Nav/Nav';
 import About from './Components/About/About';
+import Experience from './Components/Experience/Experience';
 
 interface Props {}
 
@@ -19,7 +20,8 @@ const App: FC<Props> = ({}) => {
 				<Nav />
       </div>
       
-      <About/>
+      <About />
+      <Experience/>
 		</>
 	);
 };
