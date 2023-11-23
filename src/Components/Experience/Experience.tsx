@@ -6,9 +6,14 @@ interface Props {}
 const Experience: FC<Props> = ({}) => {
 	return (
 		<>
-			<div className='experienceContainer'>
+			
+            <div className='experienceContainer'>
 				<p className='experience'>Experience</p>
 				<div className='experienceParagraph'>
+					<h3>
+						Database & Application Developer - Roberts Technology
+						Solutions
+					</h3>
 					<p>
 						8-bit wayfarers jianbing subway tile, health goth
 						snackwave post-ironic stumptown skateboard banjo
