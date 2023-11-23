@@ -1,6 +1,7 @@
 import { FC } from 'react';
 import './App.css';
 import Nav from './Components/Nav/Nav';
+import About from './Components/About/About';
 
 interface Props {}
 
@@ -16,7 +17,9 @@ const App: FC<Props> = ({}) => {
 					</p>
 				</div>
 				<Nav />
-			</div>
+      </div>
+      
+      <About/>
 		</>
 	);
 };

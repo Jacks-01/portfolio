@@ -1,0 +1,21 @@
+.aboutContainer {
+    display: flex;
+    justify-items: baseline;
+    margin-top: 60px;
+}
+
+.about {
+    margin: 0;
+    display: inline-flex;
+    width: 20%;
+    justify-content: center;
+    font-size: large;
+
+    
+}
+
+.aboutParagraph {
+    text-align: left;
+    width: 60%;
+    margin: auto;
+}
