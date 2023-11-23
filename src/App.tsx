@@ -7,14 +7,16 @@ interface Props {}
 const App: FC<Props> = ({}) => {
 	return (
 		<>
-			<div className='nameContainer'>
-				<p className='nameText'>
-					<span className='codeSymbols'>&lt;/</span>
-					Jack <br /> Stubblefield
-					<span className='codeSymbols'>/&gt;</span>
-				</p>
+			<div className='headerContainer'>
+				<div className='nameContainer'>
+					<p className='nameText'>
+						<span className='codeSymbols'>&lt;/</span>
+						Jack <br /> Stubblefield
+						<span className='codeSymbols'>/&gt;</span>
+					</p>
+				</div>
+				<Nav />
 			</div>
-			<Nav />
 		</>
 	);
 };

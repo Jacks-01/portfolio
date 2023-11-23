@@ -4,6 +4,11 @@ body {
     color: #FFF;
 }
 
+.headerContainer {
+    display: flex;
+    margin: 20px;
+}
+
 .nameContainer {
     display: inline-block;
 }
@@ -24,3 +29,4 @@ body {
     font-weight: 700;
     line-height: normal;
 }
+
