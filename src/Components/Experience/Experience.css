@@ -33,13 +33,13 @@ h3 {
 
 .spacer {
     width: 100%;
-    height: 300px;
+    height: 350px;
     background-repeat: no-repeat;
-    background-position: center 40;
+    background-position: center 1;
     background-size: cover;
 }
 
 .curve {
-    margin-top: -100px;
+    margin-top: -75px;
     background-image: url('./wave-haikei.svg');
 }
