@@ -19,6 +19,11 @@ const Nav: FC<Props> = ({}) => {
 				</a>
 				<a className='navLink'>
 					<p>
+						<span>/</span>projects
+					</p>
+				</a>
+				<a className='navLink'>
+					<p>
 						<span>/</span>resume
 					</p>
 				</a>

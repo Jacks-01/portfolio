@@ -43,3 +43,8 @@ h3 {
     margin-top: -75px;
     background-image: url('./wave-haikei.svg');
 }
+
+.job p:last-child{
+
+    margin-bottom: 125px;
+}
