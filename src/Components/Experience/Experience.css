@@ -31,3 +31,15 @@ h3 {
     /* color: #FFC40C; */
 }
 
+.spacer {
+    width: 100%;
+    height: 350px;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size: cover;
+}
+
+.curve {
+    /* margin-top: 200px; */
+    background-image: url('./wave-haikei.svg');
+}

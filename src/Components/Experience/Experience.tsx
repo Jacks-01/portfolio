@@ -6,9 +6,10 @@ interface Props {}
 const Experience: FC<Props> = ({}) => {
 	return (
 		<>
-			
-            <div className='experienceContainer'>
+			<div className='spacer curve'></div>
+			<div className='experienceContainer'>
 				<p className='experience'>Experience</p>
+				{/* <div className='curve'></div> */}
 				<div className='experienceParagraph'>
 					<h3>
 						Database & Application Developer - Roberts Technology
@@ -34,6 +35,7 @@ const Experience: FC<Props> = ({}) => {
 						twee. Biodiesel big mood tilde, fanny pack neutra
 						kombucha ennui whatever affogato.
 					</p>
+					s
 				</div>
 			</div>
 		</>
