@@ -7,7 +7,7 @@ const About: FC<Props> = ({}) => {
 	return (
 		<>
 			<div className='aboutContainer'>
-				<p className='about'>About</p>
+				<p id='about' className='about'>About</p>
 				<div className='aboutParagraph'>
 					<p>
 						8-bit wayfarers jianbing subway tile, health goth

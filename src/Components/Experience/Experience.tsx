@@ -8,8 +8,7 @@ const Experience: FC<Props> = ({}) => {
 		<>
 			<div className='spacer curve'></div>
 			<div className='experienceContainer'>
-				<p className='experience'>Experience</p>
-				{/* <div className='curve'></div> */}
+				<p id='experience' className='experience'>Experience</p>
 				<div className='experienceParagraph'>
 					<section className='job'>
 						<h3>
