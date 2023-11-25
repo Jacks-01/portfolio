@@ -35,7 +35,6 @@ const Experience: FC<Props> = ({}) => {
 						twee. Biodiesel big mood tilde, fanny pack neutra
 						kombucha ennui whatever affogato.
 					</p>
-					s
 				</div>
 			</div>
 		</>
