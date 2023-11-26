@@ -1,10 +1,10 @@
-.experienceContainer {
+.projectsContainer {
     display: flex;
     justify-items: baseline;
     margin-top: 60px;
 }
 
-.experience {
+.projects {
     margin: 0;
     display: inline-flex;
     width: 20%;
@@ -12,7 +12,7 @@
     font-size: large;
 }
 
-.experienceParagraph {
+.projectsParagraph {
     display: flex;
     flex-wrap: wrap;
     text-align: left;
@@ -29,17 +29,18 @@ h3 {
     /* color: #FFC40C; */
 }
 
+/* 
 .spacer {
     width: 100%;
     height: 350px;
     background-repeat: no-repeat;
     background-position: center 1;
     background-size: cover;
-}
+} */
 
-.curve {
+.squiggle {
     margin-top: -75px;
-    background-image: url('./wave-haikei.svg');
+    background-image: url('layered-waves-haikei.svg');
 }
 
 .job p:last-child{

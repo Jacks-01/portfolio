@@ -3,6 +3,7 @@ import './App.css';
 import Nav from './Components/Nav/Nav';
 import About from './Components/About/About';
 import Experience from './Components/Experience/Experience';
+import Projects from './Components/Projects/Projects';
 
 interface Props {}
 
@@ -21,7 +22,8 @@ const App: FC<Props> = ({}) => {
       </div>
       
       <About />
-      <Experience/>
+      <Experience />
+      <Projects/>
 		</>
 	);
 };
