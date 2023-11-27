@@ -29,21 +29,21 @@ h3 {
     /* color: #FFC40C; */
 }
 
-/* 
-.spacer {
+
+.spacerBlue {
     width: 100%;
     height: 350px;
     background-repeat: no-repeat;
-    background-position: center 1;
+    background-position: center;
     background-size: cover;
-} */
-
-.squiggle {
-    margin-top: -75px;
-    background-image: url('layered-waves-haikei.svg');
 }
 
-.job p:last-child{
+.squiggle {
+    margin-top: -200px;
+    background-image: url('wave-haikei-blue.svg');
+}
+
+.project p:last-child{
 
     margin-bottom: 125px;
 }

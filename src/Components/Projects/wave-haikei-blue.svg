@@ -1,0 +1,8 @@
+<svg id="visual" viewBox="0 0 960 540" width="960" height="540" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+    <rect x="0" y="0" width="960" height="540" fill="#333745"></rect>
+    <path
+        d="M0 297L20 311.5C40 326 80 355 120 359.8C160 364.7 200 345.3 240 325.7C280 306 320 286 360 301.5C400 317 440 368 480 366.7C520 365.3 560 311.7 600 282.7C640 253.7 680 249.3 720 269.2C760 289 800 333 840 346.3C880 359.7 920 342.3 940 333.7L960 325"
+        fill="none" stroke-linecap="round" stroke-linejoin="miter" stroke="#8a4fff"
+        stroke-width="20"></path>
+</svg>
