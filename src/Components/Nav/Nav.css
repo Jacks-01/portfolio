@@ -1,10 +1,12 @@
 .navContainer {
     display: flex;
-    gap: 40px;
+    position: relative;
+    gap: 80px;
     width: 600px;
     justify-content: space-evenly;
+    align-items:flex-start;
     font-size: 26px;
-    margin-left: 250px;
+    margin: auto;
 }
 
 
