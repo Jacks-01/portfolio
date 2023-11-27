@@ -31,14 +31,14 @@ h3 {
 
 .spacer {
     width: 100%;
-    height: 350px;
+    height: 540px;
     background-repeat: no-repeat;
     background-position: center 1;
     background-size: cover;
 }
 
 .curve {
-    margin-top: -75px;
+    margin-top: -100px;
     background-image: url('./wave-haikei.svg');
 }
 
