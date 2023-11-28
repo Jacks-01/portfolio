@@ -44,6 +44,7 @@ const Experience: FC<Props> = ({}) => {
 							Software Developer Intern - Letter B Global
 							Techonologies
 						</h3>
+						<h4>Feburary 2023 - May 2023</h4>
 						<p>
 							8-bit wayfarers jianbing subway tile, health goth
 							snackwave post-ironic stumptown skateboard banjo
@@ -70,6 +71,7 @@ const Experience: FC<Props> = ({}) => {
 
 					<section className='job'>
 						<h3>Teaching Assistant - DeltaV Code School</h3>
+						<h4>October 2022 - May 2023</h4>
 						<p>
 							8-bit wayfarers jianbing subway tile, health goth
 							snackwave post-ironic stumptown skateboard banjo

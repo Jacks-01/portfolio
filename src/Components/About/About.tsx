@@ -7,27 +7,30 @@ const About: FC<Props> = ({}) => {
 	return (
 		<>
 			<div className='aboutContainer'>
-				<p id='about' className='about'>About</p>
+				<p
+					id='about'
+					className='about'>
+					About
+				</p>
 				<div className='aboutParagraph'>
 					<p>
-						8-bit wayfarers jianbing subway tile, health goth
-						snackwave post-ironic stumptown skateboard banjo
-						bushwick neutra drinking vinegar shaman leggings. Deep v
-						lumbersexual bitters godard vaporware wayfarers gatekeep
-						tote bag butcher. Marfa health goth gatekeep cardigan
-						schlitz kitsch taxidermy bespoke Brooklyn chicharrones
-						yr kale chips vegan semiotics. Raclette jean shorts
-						dreamcatcher fingerstache coloring book.
+						While I have always had a deep curiosity of computers
+						and programming as a hobby, I officially made the career
+						swap to software development in early 2021. Previously,
+						I was a social worker helping people experiencing
+						homelessness, and had goals to become a therapist.
+						However, as I worked in the field it became very
+						apparent how inaccessible and underutilized technology
+						was. I would constantly get frustrated with government
+						websites and applications that were supposed to make
+						lives easier, but ultimately just put more roadblocks in
+						front of people that were already struggling.
 					</p>
 					<p>
-						Gochujang post-ironic fit tousled echo park microdosing.
-						Paleo pinterest JOMO, blog put a bird on it XOXO cray
-						mukbang quinoa. Ethical you probably haven't heard of
-						them cold-pressed mumblecore, helvetica tousled iPhone
-						yr banjo neutra single-origin coffee. Fingerstache
-						jianbing vexillologist pour-over, irony fanny pack JOMO
-						twee. Biodiesel big mood tilde, fanny pack neutra
-						kombucha ennui whatever affogato.
+						This led me to want to put my appreciation for
+						technology and my desire to improve people's lives
+						together. I decided to enroll in a coding bootcamp that
+						specialized in full-stack web development.
 					</p>
 				</div>
 			</div>
