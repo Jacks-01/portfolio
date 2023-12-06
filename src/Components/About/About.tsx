@@ -30,7 +30,10 @@ const About: FC<Props> = ({}) => {
 						This led me to want to put my appreciation for
 						technology and my desire to improve people's lives
 						together. I decided to enroll in a coding bootcamp that
-						specialized in full-stack web development.
+						specialized in full-stack web development. I have now
+						been developing since 2022. I hope to use my background
+						helping people to make the web and techonology as a
+						whole more accessible.
 					</p>
 				</div>
 			</div>
