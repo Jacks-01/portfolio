@@ -24,28 +24,40 @@ const Projects: FC<Props> = ({}) => {
 							job.
 						</p>
 						<div className='tagContainer'>
-							{/* Tags go here */}
 							<span className='tag'>React</span>
 							<span className='tag'>JavaScript</span>
 							<span className='tag'>Firebase</span>
 							<span className='tag'>Puppeteer</span>
 							<span className='tag'>Algolia</span>
+							<span className='tag'>Express</span>
+							<span className='tag'>Node.js</span>
 						</div>
 					</section>
 
 					<section className='project'>
-						<h3>Another Example Project</h3>
+						<h3>Tech Prep</h3>
+						<a className='projectGithub' href='https://github.com/Tech-Prep/tech-prep' target='blank'>GitHub</a>
+						<br></br>
 						<p>
-							8-bit wayfarers jianbing subway tile, health goth
-							snackwave post-ironic stumptown skateboard banjo
-							bushwick neutra drinking vinegar shaman leggings.
-							Deep v lumbersexual bitters godard vaporware
-							wayfarers gatekeep tote bag butcher. Marfa health
-							goth gatekeep cardigan schlitz kitsch taxidermy
-							bespoke Brooklyn chicharrones yr kale chips vegan
-							semiotics. Raclette jean shorts dreamcatcher
-							fingerstache coloring book.
+							Tech Prep is an Alexa skill that helps job seekers
+							applying for software developer positions. It can
+							help users by asking behavioral interview questions
+							for a mock interview experience, it can ask users
+							code challenges and set a timer for a whiteboarding
+							experience, and it can also send job listings
+							through a weekly subscription email with preset
+							keywords.
 						</p>
+
+						<div className='tagContainer'>
+							<span className='tag'>AWS</span>
+							<span className='tag'>S3</span>
+							<span className='tag'>Axios</span>
+							<span className='tag'>AWS Lambda</span>
+							<span className='tag'>Alexa SDK</span>
+							<span className='tag'>AWS SES</span>
+							<span className='tag'>JavaScript</span>
+						</div>
 					</section>
 				</div>
 			</div>
