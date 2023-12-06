@@ -118,6 +118,48 @@ const Projects: FC<Props> = ({}) => {
 							<span className='tag'>Axios</span>
 						</div>
 					</section>
+
+					<section className='project'>
+						<h3>
+							<a
+								className='projectLink'
+								href='https://skywatchers.netlify.app/eclipse'
+								target='_blank'>
+								SkyWatchers
+							</a>
+						</h3>
+						<a
+							className='projectLink'
+							href='https://github.com/Space-TFF/skyWatchers-frontend'
+							target='_blank'>
+							<i
+								className='fa fa-github'
+								style={{
+									fontSize: '40px',
+									marginLeft: '20px'
+								}}></i>
+						</a>
+
+						<p>
+							Skywatchers is an app that allows users find meetups
+							for viewing the 2023 Solar Eclipse. Users can add
+							their own events and register for others. The app
+							utilizes the Google maps API that has the trajectory
+							of the best viewing sites for the eclipse. There are
+							plans in the future to expand this to other
+							celestial events and not just the eclipse.
+						</p>
+						<div className='tagContainer'>
+							<span className='tag'>React</span>
+							<span className='tag'>JavaScript</span>
+							<span className='tag'>Postgres</span>
+							<span className='tag'>Prisma</span>
+							<span className='tag'>Google Maps API</span>
+							<span className='tag'>Express</span>
+							<span className='tag'>Node.js</span>
+							<span className='tag'>MUI</span>
+						</div>
+					</section>
 				</div>
 			</div>
 		</>
