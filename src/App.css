@@ -62,3 +62,12 @@ body {
     font-size: 24px;
     font-weight: 200;
 }
+
+.githubLink {
+    text-decoration: none;
+    color: #FFF;
+}
+
+.githubLink:hover {
+    color: #1EFFBC;
+}

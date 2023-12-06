@@ -19,11 +19,22 @@ const App: FC<Props> = ({}) => {
 					</p>
 				</div>
 				<Nav />
-      </div>
-      
-      <About />
-      <Experience />
-      <Projects/>
+				<a
+					className='githubLink'
+					href='https://github.com/Jacks-01'
+					target='_blank'>
+					<i
+						className='fa fa-github'
+						style={{
+							fontSize: '60px',
+							marginLeft: '20px'
+						}}></i>
+				</a>
+			</div>
+
+			<About />
+			<Experience />
+			<Projects />
 		</>
 	);
 };
