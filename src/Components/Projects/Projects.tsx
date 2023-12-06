@@ -89,6 +89,35 @@ const Projects: FC<Props> = ({}) => {
 							<span className='tag'>JavaScript</span>
 						</div>
 					</section>
+					<section className='project'>
+						<h3>Budget App</h3>
+
+						<a
+							className='projectLink'
+							href='https://github.com/Jacks-01/budget-front'
+							target='_blank'>
+							<i
+								className='fa fa-github'
+								style={{
+									fontSize: '40px',
+									marginLeft: '20px'
+								}}></i>
+						</a>
+
+						<p>In progress... more to be added soon!</p>
+
+						<div className='tagContainer'>
+							<span className='tag'>TypeScript</span>
+							<span className='tag'>React</span>
+							<span className='tag'>Node</span>
+							<span className='tag'>Express</span>
+							<span className='tag'>Chakra</span>
+							<span className='tag'>Framer</span>
+							<span className='tag'>React Router</span>
+							<span className='tag'>Plaid API</span>
+							<span className='tag'>Axios</span>
+						</div>
+					</section>
 				</div>
 			</div>
 		</>
