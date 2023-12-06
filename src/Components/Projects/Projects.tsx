@@ -15,7 +15,26 @@ const Projects: FC<Props> = ({}) => {
 				</p>
 				<div className='projectsParagraph'>
 					<section className='project'>
-						<h3>Wenjobs</h3>
+						<h3>
+							<a
+								className='projectLink'
+								href='https://wenjobs-3dbc9.firebaseapp.com/'
+								target='_blank'>
+								Wenjobs
+							</a>
+						</h3>
+						<a
+							className='projectLink'
+							href='https://github.com/orgs/Wen-Jobs/repositories'
+							target='_blank'>
+							<i
+								className='fa fa-github'
+								style={{
+									fontSize: '40px',
+									marginLeft: '20px'
+								}}></i>
+						</a>
+
 						<p>
 							Wenjobs is a full stack application that utilizes
 							your linkedin connections and job postings from the
@@ -36,8 +55,19 @@ const Projects: FC<Props> = ({}) => {
 
 					<section className='project'>
 						<h3>Tech Prep</h3>
-						<a className='projectGithub' href='https://github.com/Tech-Prep/tech-prep' target='blank'>GitHub</a>
-						<br></br>
+
+						<a
+							className='projectLink'
+							href='https://github.com/Tech-Prep/tech-prep'
+							target='_blank'>
+							<i
+								className='fa fa-github'
+								style={{
+									fontSize: '40px',
+									marginLeft: '20px'
+								}}></i>
+						</a>
+
 						<p>
 							Tech Prep is an Alexa skill that helps job seekers
 							applying for software developer positions. It can
