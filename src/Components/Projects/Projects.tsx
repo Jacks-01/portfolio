@@ -8,24 +8,30 @@ const Projects: FC<Props> = ({}) => {
 		<>
 			<div className='spacerBlue squiggle'></div>
 			<div className='projectsContainer'>
-				<p id='projects' className='projects'>Projects</p>
+				<p
+					id='projects'
+					className='projects'>
+					Projects
+				</p>
 				<div className='projectsParagraph'>
 					<section className='project'>
-						<h3>
-							Example Project
-						</h3>
+						<h3>Wenjobs</h3>
 						<p>
-							Gochujang post-ironic fit tousled echo park
-							microdosing. Paleo pinterest JOMO, blog put a bird
-							on it XOXO cray mukbang quinoa. Ethical you probably
-							haven't heard of them cold-pressed mumblecore,
-							helvetica tousled iPhone yr banjo neutra
-							single-origin coffee. Fingerstache jianbing
-							vexillologist pour-over, irony fanny pack JOMO twee.
-							Biodiesel big mood tilde, fanny pack neutra kombucha
-							ennui whatever affogato.
+							Wenjobs is a full stack application that utilizes
+							your linkedin connections and job postings from the
+							web3 industry to help job seekers find valuable
+							insights from their network to find their next dream
+							job.
 						</p>
-					</section>	
+						<div className='tagContainer'>
+							{/* Tags go here */}
+							<span className='tag'>React</span>
+							<span className='tag'>JavaScript</span>
+							<span className='tag'>Firebase</span>
+							<span className='tag'>Puppeteer</span>
+							<span className='tag'>Algolia</span>
+						</div>
+					</section>
 
 					<section className='project'>
 						<h3>Another Example Project</h3>
