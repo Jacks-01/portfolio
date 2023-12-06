@@ -28,9 +28,8 @@ p {
     margin-top: 0;
 }
 
-h3 {
+.job h3 {
     margin-top: 0;
-    /* color: #FFC40C; */
 }
 
 h4 {
@@ -55,3 +54,4 @@ h4 {
 
     margin-bottom: 125px;
 }
+
